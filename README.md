@@ -1,16 +1,25 @@
 # -Closed-Loop-Photovoltaic-SEPIC-Power-Supply-and-Battery-Charger
 
   ## Project Description
+  This is one of the lab projects done in my MSEE class. One of my favourites. Have the change to calculate, modeling, build, test the circuit.
   Closed-Loop Photovoltaic SEPIC Power Supply and Battery Charger, with Built in Digital PID Compensator
-    
+  
+  ECEA 5716 Open-Loop Photovoltaic Power Electronics Laboratory
+  ECEA 5717 Closed-Loop Photovoltaic Power Electronics Laboratory
+  ECEA 5718 Photovoltaic Power Electronics Battery Management Laboratory
+
   ## Project Requirements
+  Works, Do not Blow up.
   
   ## Pros
-    Reserved
+  Get the vertical design experience of Solar Power Converter
+  
   ## Cons
-    Reserved
+  Never got a chance to actually design the PCB based on what I have done on the prototype.
     
   ## Note to Future Development
+  If I will do the PCB of this projects, some of the measurement would be better because it would be less ESR and ESL.
+  It would be nice to sell it as a kit for future students.
   
   ## PCB
     Reserved
