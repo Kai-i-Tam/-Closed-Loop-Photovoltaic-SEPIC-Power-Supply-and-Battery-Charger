@@ -14,7 +14,7 @@
   </p>
   
   ## Project Description
-  This is one of the lab projects done in my MSEE class. One of my favourites. Have the change to calculate, modeling, build, test the circuit.
+  This is one of the lab projects done in my MSEE class. One of my favourites. Have the chance to calculate, modeling, build, test the circuit.
   Closed-Loop Photovoltaic SEPIC Power Supply and Battery Charger, with Built in Digital PID Compensator
   
   ECEA 5716 Open-Loop Photovoltaic Power Electronics Laboratory
