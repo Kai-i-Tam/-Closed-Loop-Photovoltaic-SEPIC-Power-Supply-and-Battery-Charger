@@ -1,5 +1,12 @@
 # -Closed-Loop-Photovoltaic-SEPIC-Power-Supply-and-Battery-Charger
   <p align="center">
+    <img src="https://github.com/Kai-i-Tam/Closed-Loop-Photovoltaic-SEPIC-Power-Supply-and-Battery-Charger/blob/c601b95fd512c4e891db4346fd5a141e44b59230/Final%20Schematic.JPG" width=100% height=100%>
+  </p>
+  <p align="center">
+    Final Schematic
+  </p>  
+  
+  <p align="center">
     <img src="https://github.com/Kai-i-Tam/-Closed-Loop-Photovoltaic-SEPIC-Power-Supply-and-Battery-Charger/blob/768766ca78714102fe0fd5464d35948f37470776/20220329_203334.jpg" width=100% height=100%>
   </p>
   <p align="center">
