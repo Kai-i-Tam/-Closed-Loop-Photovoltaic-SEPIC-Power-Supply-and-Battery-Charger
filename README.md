@@ -44,6 +44,13 @@
   - [Project 1 Requirement](https://github.com/Kai-i-Tam/Closed-Loop-Photovoltaic-SEPIC-Power-Supply-and-Battery-Charger/blob/main/Experiment%201%20Procedure.pdf)
   - [Project 1 Report](https://github.com/Kai-i-Tam/Closed-Loop-Photovoltaic-SEPIC-Power-Supply-and-Battery-Charger/blob/d47ca51a6252e8a47e37fec5e7a193627b1395b2/ECEA%205716%20Project%201%20Direct%20Energy%20Transfer%20System%20-%20Kai%20Tam.pdf)  
   
+  <p align="center">
+  <img src="https://github.com/Kai-i-Tam/Closed-Loop-Photovoltaic-SEPIC-Power-Supply-and-Battery-Charger/blob/main/L1%20BodePlot%2064%20Turns%20470uH%20d.JPG" width=80% height=80%>
+  </p>
+  <p align="center">
+    Inductor Bode Plot
+  </p>  
+  
   ___
   
   **Project 2 Software Tools and Pulse-Width Modulator**  
@@ -73,7 +80,14 @@
  
   - [Project 3 Requirement](https://github.com/Kai-i-Tam/Closed-Loop-Photovoltaic-SEPIC-Power-Supply-and-Battery-Charger/blob/main/Experiment%203%20Procedure.pdf)
   - [Project 3 Report](https://github.com/Kai-i-Tam/Closed-Loop-Photovoltaic-SEPIC-Power-Supply-and-Battery-Charger/blob/d47ca51a6252e8a47e37fec5e7a193627b1395b2/ECEA%205716%20Project%203%20Open-Loop%20DC-DC%20Converter%20-%20Kai%20Tam.pdf)  
-    
+  
+  <p align="center">
+  <img src="https://github.com/Kai-i-Tam/Closed-Loop-Photovoltaic-SEPIC-Power-Supply-and-Battery-Charger/blob/main/Project%203%20LTSpice.JPG" width=80% height=80%>
+  </p>
+  <p align="center">
+    LTSpice .sch of Averaged SEPIC
+  </p>  
+  
   ___
   
   **Project 4 Converter Small-Signal AC Transfer Functions**  
@@ -84,6 +98,20 @@
 
   - [Project 4 Requirement](https://github.com/Kai-i-Tam/Closed-Loop-Photovoltaic-SEPIC-Power-Supply-and-Battery-Charger/blob/main/Experiment%204%20Procedure.pdf)
   - [Project 4 Report](https://github.com/Kai-i-Tam/Closed-Loop-Photovoltaic-SEPIC-Power-Supply-and-Battery-Charger/blob/d47ca51a6252e8a47e37fec5e7a193627b1395b2/ECEA%205717%20Project%204%20Converter%20Small-Signal%20AC%20Transfer%20Functions%20-%20Kai%20Tam.pdf)  
+  
+  <p align="center">
+  <img src="https://github.com/Kai-i-Tam/Closed-Loop-Photovoltaic-SEPIC-Power-Supply-and-Battery-Charger/blob/bd7eb599123ddcdca41bd856def27434bbf4e436/Project%204%20Damped.JPG" width=80% height=80%>
+  </p>
+  <p align="center">
+    Gvd(s) (damped)
+  </p>  
+  
+  <p align="center">
+  <img src="https://github.com/Kai-i-Tam/Closed-Loop-Photovoltaic-SEPIC-Power-Supply-and-Battery-Charger/blob/bd7eb599123ddcdca41bd856def27434bbf4e436/Project%204%20AD2%20Damped.JPG" width=80% height=80%>
+  </p>
+  <p align="center">
+    Gvd / Vm (with damping elements)
+  </p>  
   
   ___
   
@@ -96,6 +124,27 @@
   - [Project 5 Requirement](https://github.com/Kai-i-Tam/Closed-Loop-Photovoltaic-SEPIC-Power-Supply-and-Battery-Charger/blob/main/Experiment%205%20Procedure.pdf)
   - [Project 5 Report](https://github.com/Kai-i-Tam/Closed-Loop-Photovoltaic-SEPIC-Power-Supply-and-Battery-Charger/blob/d47ca51a6252e8a47e37fec5e7a193627b1395b2/ECEA%205717%20Project%205%20Closed-Loop%20Voltage%20Regulator%20-%20Kai%20Tam.pdf)  
     
+  <p align="center">
+  <img src="https://github.com/Kai-i-Tam/Closed-Loop-Photovoltaic-SEPIC-Power-Supply-and-Battery-Charger/blob/bd7eb599123ddcdca41bd856def27434bbf4e436/Project%205%20LTSpice.JPG" width=80% height=80%>
+  </p>
+  <p align="center">
+    D vs. V(out) in LTSpice
+  </p>  
+  
+  <p align="center">
+  <img src="https://github.com/Kai-i-Tam/Closed-Loop-Photovoltaic-SEPIC-Power-Supply-and-Battery-Charger/blob/bd7eb599123ddcdca41bd856def27434bbf4e436/Project%205%20Matlab.JPG" width=80% height=80%>
+  </p>
+  <p align="center">
+    Compensated and Uncompensated Loop Gain (Tu, T), optimized Phase Margin
+  </p>  
+  
+  <p align="center">
+  <img src="https://github.com/Kai-i-Tam/Closed-Loop-Photovoltaic-SEPIC-Power-Supply-and-Battery-Charger/blob/bd7eb599123ddcdca41bd856def27434bbf4e436/Project%205%20AD2.JPG" width=80% height=80%>
+  </p>
+  <p align="center">
+    Compensated Loop Gain (T)
+  </p> 
+  
   ___
   
   **Project 6 Maximum Power Point Tracking**  
@@ -105,6 +154,13 @@
 
   - [Project 6 Requirement](https://github.com/Kai-i-Tam/Closed-Loop-Photovoltaic-SEPIC-Power-Supply-and-Battery-Charger/blob/main/Experiment%206%20Procedure.pdf)
   - [Project 6 Report](https://github.com/Kai-i-Tam/Closed-Loop-Photovoltaic-SEPIC-Power-Supply-and-Battery-Charger/blob/d47ca51a6252e8a47e37fec5e7a193627b1395b2/ECEA%205718%20Project%206%20Maximum%20Power%20Point%20Tracking%20-%20Kai%20Tam.pdf)  
+  
+  <p align="center">
+  <img src="https://github.com/Kai-i-Tam/Closed-Loop-Photovoltaic-SEPIC-Power-Supply-and-Battery-Charger/blob/bd7eb599123ddcdca41bd856def27434bbf4e436/Project%206%20Matlab.JPG" width=80% height=80%>
+  </p>
+  <p align="center">
+    MATLAB/Simulink model
+  </p> 
   
   ___
   
