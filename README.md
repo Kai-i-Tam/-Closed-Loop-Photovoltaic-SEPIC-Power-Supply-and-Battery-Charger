@@ -125,13 +125,6 @@
   - [Project 5 Report](https://github.com/Kai-i-Tam/Closed-Loop-Photovoltaic-SEPIC-Power-Supply-and-Battery-Charger/blob/d47ca51a6252e8a47e37fec5e7a193627b1395b2/ECEA%205717%20Project%205%20Closed-Loop%20Voltage%20Regulator%20-%20Kai%20Tam.pdf)  
     
   <p align="center">
-  <img src="https://github.com/Kai-i-Tam/Closed-Loop-Photovoltaic-SEPIC-Power-Supply-and-Battery-Charger/blob/bd7eb599123ddcdca41bd856def27434bbf4e436/Project%205%20LTSpice.JPG" width=80% height=80%>
-  </p>
-  <p align="center">
-    D vs. V(out) in LTSpice
-  </p>  
-  
-  <p align="center">
   <img src="https://github.com/Kai-i-Tam/Closed-Loop-Photovoltaic-SEPIC-Power-Supply-and-Battery-Charger/blob/bd7eb599123ddcdca41bd856def27434bbf4e436/Project%205%20Matlab.JPG" width=80% height=80%>
   </p>
   <p align="center">
