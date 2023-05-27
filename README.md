@@ -1,4 +1,12 @@
 # -Closed-Loop-Photovoltaic-SEPIC-Power-Supply-and-Battery-Charger
+
+  <p align="center">
+    <img src="https://github.com/Kai-i-Tam/Closed-Loop-Photovoltaic-SEPIC-Power-Supply-and-Battery-Charger/blob/main/Solar%20Power%20System.JPG" width=80% height=80%>
+  </p>
+  <p align="center">
+    Block Diagram
+  </p>  
+  
   <p align="center">
     <img src="https://github.com/Kai-i-Tam/Closed-Loop-Photovoltaic-SEPIC-Power-Supply-and-Battery-Charger/blob/c601b95fd512c4e891db4346fd5a141e44b59230/Final%20Schematic.JPG" width=100% height=100%>
   </p>
@@ -7,14 +15,14 @@
   </p>  
   
   <p align="center">
-    <img src="https://github.com/Kai-i-Tam/-Closed-Loop-Photovoltaic-SEPIC-Power-Supply-and-Battery-Charger/blob/768766ca78714102fe0fd5464d35948f37470776/20220329_203334.jpg" width=100% height=100%>
+    <img src="https://github.com/Kai-i-Tam/-Closed-Loop-Photovoltaic-SEPIC-Power-Supply-and-Battery-Charger/blob/768766ca78714102fe0fd5464d35948f37470776/20220329_203334.jpg" width=80% height=80%>
   </p>
   <p align="center">
     The final form of the prototype.
   </p>  
   
   <p align="center">
-    <img src="https://github.com/Kai-i-Tam/-Closed-Loop-Photovoltaic-SEPIC-Power-Supply-and-Battery-Charger/blob/768766ca78714102fe0fd5464d35948f37470776/20220329_120127.jpg" width=100% height=100%>
+    <img src="https://github.com/Kai-i-Tam/-Closed-Loop-Photovoltaic-SEPIC-Power-Supply-and-Battery-Charger/blob/768766ca78714102fe0fd5464d35948f37470776/20220329_120127.jpg" width=80% height=80%>
   </p>
   <p align="center">
     Getting some Sun readings and Converter performance.
