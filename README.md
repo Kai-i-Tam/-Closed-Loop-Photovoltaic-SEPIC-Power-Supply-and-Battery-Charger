@@ -26,7 +26,7 @@
 
   **Project 1 Direct Energy Transfer System**  
   The very first project require us to get the actual Solar Panel Value under the Sun, Short Circuit Current, Open Circuit Voltage.  
-  Then turn those values into mathmetical model for simulations.  
+  Then turn those values into mathmetical model for simulations in LTSpice.  
   
   - [Project 1 Requirement](https://github.com/Kai-i-Tam/Closed-Loop-Photovoltaic-SEPIC-Power-Supply-and-Battery-Charger/blob/main/Experiment%201%20Procedure.pdf)
   - [Project 1 Report](https://github.com/Kai-i-Tam/Closed-Loop-Photovoltaic-SEPIC-Power-Supply-and-Battery-Charger/blob/d47ca51a6252e8a47e37fec5e7a193627b1395b2/ECEA%205716%20Project%201%20Direct%20Energy%20Transfer%20System%20-%20Kai%20Tam.pdf)  
