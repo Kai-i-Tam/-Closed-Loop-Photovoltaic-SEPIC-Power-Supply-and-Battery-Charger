@@ -22,22 +22,35 @@
   
   ## Project Description
   This is one of the lab projects done in my MSEE class. One of my favourites. Have the chance to calculate, modeling, build, test the circuit.
-  Closed-Loop Photovoltaic SEPIC Power Supply and Battery Charger, with Built in Digital PID Compensator
-  
-  
-  ## Project Requirements
+  Closed-Loop Photovoltaic SEPIC Power Supply and Battery Charger, with Built in Digital PID Compensator.
+
   **Project 1 Direct Energy Transfer System**  
-  Description here
+  The very first project require us to get the actual Solar Panel Value under the Sun, Short Circuit Current, Open Circuit Voltage.  
+  Then turn those values into mathmetical model for simulations.  
+  
   - [Project 1 Requirement](https://github.com/Kai-i-Tam/Closed-Loop-Photovoltaic-SEPIC-Power-Supply-and-Battery-Charger/blob/main/Experiment%201%20Procedure.pdf)
   - [Project 1 Report](https://github.com/Kai-i-Tam/Closed-Loop-Photovoltaic-SEPIC-Power-Supply-and-Battery-Charger/blob/d47ca51a6252e8a47e37fec5e7a193627b1395b2/ECEA%205716%20Project%201%20Direct%20Energy%20Transfer%20System%20-%20Kai%20Tam.pdf)  
   
   **Project 2 Software Tools and Pulse-Width Modulator**  
-  Description here
+  The second project require us to get the launchpad ready on the prototype board.  
+  In Software, setting up the decided switching frequency and duty cycles. Then verified with Digilent AD2 or any Oscilloscopte.  
+  
   - [Project 2 Requirement](https://github.com/Kai-i-Tam/Closed-Loop-Photovoltaic-SEPIC-Power-Supply-and-Battery-Charger/blob/main/Experiment%202%20Procedure.pdf)
   - [Project 2 Report](https://github.com/Kai-i-Tam/Closed-Loop-Photovoltaic-SEPIC-Power-Supply-and-Battery-Charger/blob/d47ca51a6252e8a47e37fec5e7a193627b1395b2/ECEA%205716%20Project%202%20Software%20Tools%20and%20Pulse-Width%20Modulator%20-%20Kai%20Tam.pdf)  
 
   **Project 3 Open-Loop DC-DC Converter**  
-  Description here
+ The third one require us the do the analysis of the circuit, including Volt Second Balance, Charge Balance.  
+ Since we had got the Solar Panel Value from Project 1, we will use those as Input values of the SEPIC, with our decided switching frequency, we then found out the optimum values of all elements.  
+ 
+ Once we have decided the Inductor Values, we will then construct our own (hand build),   
+ Using the Network Analyzer from Digilent AD2, we can do a sweep and get the Bode Plot of the Inductors.  
+ 
+ We also have to design and hand build our own Current measuring transformer which reading the Drain Current of the MOSFET.  
+ Putting everything together on a quick prototype board (totally disregard EMI), we measure the actual value of how the circuit behave in Open Loop.  
+ 
+ Also using LTSpice to simulate the actual Solar Panel and Circuit behavior in Average Model.
+ Getting the "close enough" duty cycle for Maximum Power Transfer is the objective for this project. which is approximately 0.45
+ 
   - [Project 3 Requirement](https://github.com/Kai-i-Tam/Closed-Loop-Photovoltaic-SEPIC-Power-Supply-and-Battery-Charger/blob/main/Experiment%203%20Procedure.pdf)
   - [Project 3 Report](https://github.com/Kai-i-Tam/Closed-Loop-Photovoltaic-SEPIC-Power-Supply-and-Battery-Charger/blob/d47ca51a6252e8a47e37fec5e7a193627b1395b2/ECEA%205716%20Project%203%20Open-Loop%20DC-DC%20Converter%20-%20Kai%20Tam.pdf)  
   
@@ -63,13 +76,14 @@
   
   
   ## Pros
-  Get the vertical design experience of Solar Power Converter
+  Get the vertical design experience of Solar Power Converter.
+  One of the greatest adventage of this lab is scalable, we can later using this as template to build a larger Solar Power Chargers.
   
   ## Cons
   Never got a chance to actually design the PCB based on what I have done on the prototype.
     
   ## Note to Future Development
-  If I will do the PCB of this projects, some of the measurement would be better because it would be less ESR and ESL.
+  If I will do the PCB of this projects, some of the measurement would be better because it would be less ESR and ESL. Switching Noise will be less and efficiency would definitly gone up.
   It would be nice to sell it as a kit for future students.
   
   ## PCB
