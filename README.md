@@ -179,6 +179,12 @@
   If I will do the PCB of this projects, some of the measurement would be better because it would be less ESR and ESL. Switching Noise will be less and efficiency would definitly gone up.
   It would be nice to sell it as a kit for future students.
   
+  ## Tesing Equipment
+  - Fluke 289 True RMS Multimeter
+  - Siglent SDS1104X-E Digital Storage Oscilloscope 100MHz
+  - TekPower TP3005T DC Regulated Power Supply
+  - Digilent Analog Discovery 2 as Network Analyzer
+
   ## PCB
     Reserved
 
