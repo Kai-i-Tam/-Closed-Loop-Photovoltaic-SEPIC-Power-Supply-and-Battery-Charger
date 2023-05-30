@@ -169,7 +169,9 @@
   ___
   
   ## Pros
-  Get the vertical design experience of Solar Power Converter.
+  Get the vertical design experience of Solar Power Converter.  
+  Have the experience of digitalize the Compensator.
+  Actual hands-on work making a custom Inductors and Transformers.
   One of the greatest adventage of this lab is scalable, we can later using this as template to build a larger Solar Power Chargers.
   
   ## Cons
